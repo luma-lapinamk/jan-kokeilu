@@ -14,6 +14,8 @@ kernelspec:
 
 # Ensimmainen kirjani
 
+Tämä on myös ensimmäinen päivitys
+
 Tämä on ihan ensimmäinen kirjani. Umpisurkea, mutta tästä aloitetaan.
 Sivulle voidaan tuottaa lukijalle useankaltaista interaktiivista materiaalia sekä myös mahdollistaa sellaisen tuottaminen lukijan toimesta.
 
